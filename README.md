@@ -1,12 +1,11 @@
 # Microsoft-Access-Database-Project-Student-Result-Management-System
-Microsoft Access-based database system designed to manage student academic records efficiently
 This project is a Microsoft Access-based database system designed to manage student academic records efficiently.
 
 It captures student information, assigns subjects, records CA and exam scores, and automatically generates total scores and grades.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Student registration and class assignment  
 - Multi-subject score entry per student (via subform)  
@@ -32,7 +31,7 @@ Relationships:
 
 ---
 
-## 🛠 Implementation Process
+## Implementation Process
 
 1. Designed relational tables with primary and foreign keys  
 2. Created relationships to maintain data integrity  
@@ -43,7 +42,7 @@ Relationships:
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 The system generates a structured report showing:
 - Student details  
@@ -55,7 +54,7 @@ The system generates a structured report showing:
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Relational database design  
 - Data normalization  
